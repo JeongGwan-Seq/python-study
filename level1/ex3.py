@@ -71,7 +71,18 @@ list10 = list(tuple1)
 print(list10)
 
 
-
+PS C:\Users\KW2012-357\Desktop\kiswire> git remote add origin https://github.com/JeongGwan-Seq/python-study.git
+PS C:\Users\KW2012-357\Desktop\kiswire> git push origin master
+info: please complete authentication in your browser...
+Enumerating objects: 6, done.
+Counting objects: 100% (6/6), done.
+Delta compression using up to 8 threadshe
+Compressing objects: 100% (5/5), done.
+Writing objects: 100% (6/6), 1.30 KiB | 148.00 KiB/s, done.
+Total 6 (delta 0), reused 0 (delta 0), pack-reused 0
+To https://github.com/JeongGwan-Seq/python-study.git
+ * [new branch]      master -> master
+PS C:\Users\KW2012-357\Desktop\kiswire> 
 
 #3 딕셔너리
 
